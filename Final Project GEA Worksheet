@@ -1,0 +1,60 @@
+Final Project GEA Worksheet
+
+AI Group Name: AI & Health II
+
+Project Name: Diabetes Prediction using Neural Networks
+
+#Goals
+
+
+What are the goals of the intelligent system?
+
+1- Develop a diabetes prediction model using the Pima Indians Diabetes Database.
+
+2- Use various health-related factors such as age, BMI, blood pressure, and glucose levels as input variables to the model.
+
+3- Develop a model that can assist healthcare professionals in identifying individuals at risk for diabetes.
+
+4- Accurately predict the presence or absence of diabetes based on the input variables.
+
+
+#Environment
+
+What is the environment that the system will be adapting within?
+
+The environment will be the Pima Indians population, and their health indicators related to diabetes 
+(features: pregnancies, glucose, bloodPressure, skinThickness, insulin, bmi, diabetesPedigreeFunction, age).
+
+Who the stakeholders are for your system and reflect upon how your system may positively or negatively impact each of these stakeholders:
+
+Patients: The primary stakeholder group for this system is the Pima Indian patients who will use it to predict the likelihood of developing diabetes. 
+The system can positively impact patients by helping them to make lifestyle changes and take preventative measures to reduce the risk of developing diabetes. 
+On the other hand, the system may negatively impact patients if it generates false positives or false negatives, leading to unnecessary anxiety or missed diagnoses.
+
+Healthcare providers: Healthcare providers using our prediction model to make clinical decisions are potential stakeholders. 
+The system can positively impact healthcare providers by providing them with informative guidance in their decision-making, producing accurate diagnosis. 
+However, if the system is not accurate or reliable, it may lead to incorrect diagnoses or treatment decisions.
+
+Researchers: Researchers who are studying diabetes and its risk factors may also be stakeholders. 
+The system can positively impact researchers by providing a dataset for analysis and potentially identifying new risk factors or correlations. 
+However, if the system is biased or inaccurate, it may lead to flawed research findings.
+
+Health insurance companies: Health insurance companies are stakeholders as well, because they can now calculate risk and insurance premiums more accurately and better serve patients. 
+Insurance companies may benefit from this because they can estimate risk and losses and better provide insurance services to patients more accurately.
+
+Public: The public are the stakeholders. The model could provide more information, helping the public to better understand diabetes and its risk.
+Therefore, the public's lives will be improved and they can live healthier.
+
+#Adaptation
+
+How might the system adapt to the environment given the goals? How might its inner environment change?
+
+Updating weights and adjusting hyperparameters (learning rate, training iterations, etc) to improve prediction accuracy.
+Utilizing cross-validation to avoid overfitting the data, improving generalized accuracy prediction.
+
+Transfer learning: Adapt the AI system to leverage transfer learning, which can use pre-trained models from related domains to enhance the diabetes prediction model's performance, 
+reduce training time, and increase generalizability across populations.
+The system may adapt to changes when there is new data that is not available previously. 
+Also, when there are new models and algorithms introduced, the system may adapt to these technologies as well.
+
+Our system would be intended to help screen for diabetes.
