@@ -1,6 +1,6 @@
 # Diabetes Prediction using Neural Network(Ai-and-health 2)
 ## Overview:
-This is a Python code using neural network to make diabetes predictions(CMPSC 442 NN+CV 82%.ipynb). The code reads a diabetes dataset (diabetes.csv), preprocesses the data, builds a neural network model with cross validation, and uses it to predict diabetes.
+This is a Python code using neural network to make diabetes predictions(CMPSC 442 Final project FNN and RNN.ipynb). The code reads a diabetes dataset (diabetes.csv), preprocesses the data, builds a neural network model with cross validation, and uses it to predict diabetes.
 
 ## Requirement:
 Install and import necessary packages for the projects, such as sklearn, keras etc.
